@@ -1,32 +1,33 @@
-# Hey there, I'm Baskaran M 👋
+# Hey there, I'm Raghunandhan G 👋
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Project+Trainee+at+Zoho;Deep+Learning+%7C+Computer+Vision+%7C+GenAI;Agentic+AI+%7C+RAG+%7C+ML+Engineering;Mechanical+Engineer+Turned+AI+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E1FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Project+Trainee+at+Zoho;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP+%7C+RAG+Systems;Automation+%7C+End-to-End+ML+Pipelines" />
 
 </div>
 
-I'm an **AI Developer & ML Engineer**, exploring the intersection of **Deep Learning, Automation, GenAI, and Computer Vision**.  
-Even though I'm a Mechanical Engineering student, my passion shifted towards building **intelligent real-world AI systems**, and I’ve been pursuing that journey ever since. 🚀  
+I'm an **AI Engineer & ML Developer** passionate about building intelligent systems that have real-world impact.  
+Though my journey began in **Mechanical Engineering**, I transitioned into AI after discovering my passion for automation, machine learning, and computer vision.
 
-Currently, I’m working as a **Project Trainee at Zoho (Oct 7, 2025 – Present)** and a **Level 3 Member at iQube Innovation Center**, contributing to AI research, full-stack ML solutions, and industry-focused automation projects.
+Currently, I work as a **Project Trainee at Zoho (Oct 7, 2025 – Present)** and I’m a **Level 3 Member at iQube Innovation Center**, where I explore agentic AI, RAG, explainability, and deployment workflows.
 
 ---
 
-## 🌱 What I'm Into
+## 🧑‍💻 What I'm Focused On
 
-- 🤖 Applied AI for product automation  
-- 📌 AI Agents, RAG Applications & LLM Workflows  
-- 🧠 Explainable AI (SHAP), Model Deployment & FastAPI  
-- 🏭 AI for Manufacturing & Computer Vision Systems  
+- 🤖 Agentic AI & RAG Applications  
+- 📦 ML Deployment, FastAPI, Streamlit tooling  
+- 🔎 Explainable AI (SHAP) for model transparency  
+- 📁 End-to-end AI solutions: Data → Model → UI → Deploy  
+- 🏭 AI for manufacturing & computer vision  
 
 ---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Baskarankctm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baskaran-m-517067266)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baskaran.22me@kct.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/RaghunandhanG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunandhang)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghunandhan.22me@kct.ac.in)
 
 </div>
 
@@ -36,12 +37,13 @@ Currently, I’m working as a **Project Trainee at Zoho (Oct 7, 2025 – Present
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
+![Phidata](https://img.shields.io/badge/Phidata-2A2A2A?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
@@ -52,79 +54,86 @@ Currently, I’m working as a **Project Trainee at Zoho (Oct 7, 2025 – Present
 
 ### 🧠 Core Skills
 
-- **Machine Learning**: Training, optimization & automation  
-- **Computer Vision**: YOLO, OpenCV, inference pipelines  
-- **NLP/GenAI**: LangChain, RAG, LLM tooling  
-- **Backend**: FastAPI, Flask, Streamlit apps  
-- **Databases**: SQL, Vector DBs (learning)
-
+- **ML & Deep Learning:** TensorFlow, PyTorch, Scikit-learn  
+- **Computer Vision:** OpenCV, YOLO, ML explainability  
+- **LLMs & Agents:** LangChain, LangGraph, RAG, Google GenAI  
+- **Backend Engineering:** FastAPI, Flask, Streamlit  
+- **Data:** EDA, Processing, Visualization, MySQL  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 **WelVision – Roller Fault Detection System**
-AI-powered CV system for detecting roller bearing defects.  
-✔ Achieved **85% accuracy improvement** with optimized annotations & modeling  
-✔ Built real-time UI + end-to-end pipeline on Roboflow  
-**Tech:** `Python` `OpenCV` `python-snap7` `YOLOv8`
+### 🔍 **WelVision – Roller Fault Detection**
+Built a production-ready computer vision system to detect manufacturing defects.  
+✔ Improved prediction accuracy to **85%**  
+✔ Built a full collection → label → train → deploy pipeline  
+✔ Created admin UI for real-time inference  
+
+**Tech:** `Python` `OpenCV` `Tkinter` `python-snap7` `Roboflow SDK`
+
+---
+
+### 🧮 **SGPA Automation System (Used by 1000+ Users)**
+A platform that extracts PDF results, calculates SGPA/CGPA, identifies backlogs, and shows contribution analytics.  
+Reduced manual calculation time by **90%**.
+
+**Tech:** `Streamlit` `Pandas` `PyMuPDF`
 
 ---
 
 ### 📄 **AI Resume Builder**
-Built a full automation pipeline to generate resumes using **Google Flash model** + **LangChain Tools**.  
-Real-time PDF preview, prompt templates & LaTeX compilation.
+AI-powered resume generation system interacting through LangChain tools.  
+Real-time PDF preview, LLM-powered LaTeX generation.
 
-**Tech:** `Flask` `LangChain` `pdflatex` `Google LLM`
-
----
-
-### 🧮 **SGPA Calculator (Used by 1000+ Students)**
-Upload result → Get SGPA, CGPA, backlog status & analytics instantly.  
-Reduced manual calculation time by **90%**.
-
-**Tech:** `Python` `Streamlit` `PyMuPDF` `Pandas`
-
+**Tech:** `Flask` `GoogleGenAI` `LangChain` `pdflatex`
 
 ---
 
-## 💼 Professional Journey
+### 🎛️ **ML Workflow Automation**
+Plug-and-play ML pipeline where users upload data and the system cleans, encodes, trains, and evaluates automatically.
+
+**Tech:** `Streamlit` `Pandas` `Scikit-Learn`
+
+---
+
+## 💼 Experience
 
 | Role | Organization | Duration |
 |------|-------------|----------|
-| **Project Trainee (AI)** | Zoho | Oct 7, 2025 – Present |
-| **AI Engineer Intern** | iQube (Kumaraguru Innovation Center) | Sept 2023 – Present |
+| **Project Trainee — AI/ML** | Zoho | Oct 7, 2025 – Present |
+| **AI Engineer Intern** | iQube, Kumaraguru College of Technology | Sept 2023 – Present |
 | **Level 3 Member** | iQube Innovation Center | Ongoing |
 
 ---
 
-## 🏆 Achievements
+## 🏆 Awards & Milestones
 
-- 🏅 **Mahatma Gandhi Merit Scholarship (2024)**  
-- 🏆 **SN Bose Innovation Award (2025)**  
-- 📚 Solved **180+ DSA/ML challenges** across platforms  
+- 🥇 **Mahatma Gandhi Merit Scholarship 2024**  
+- 🏅 **SN Bose Innovation Award 2025**  
+- 🔥 Completed **180+ ML & DSA Challenges**  
+- 🧠 Participated in **HackTheBox & ML CTFs**  
 
 ---
 
-## 🔥 Currently Exploring
+## 🚧 Currently Working On
 
-- 🧠 Improving large-scale inference pipelines  
-- 🗃️ Vector DBs + RAG Systems  
-- 🧪 Multi-agent AI Systems  
-- ☁️ Cloud deployment workflow (AWS & GCP)
+- 🤖 Building advanced multi-agent AI systems  
+- 💾 Exploring vector DBs and retrieval optimization  
+- ☁️ Improving deployment workflows & scaling  
 
 ---
 
 <div align="center">
 
-### ✨ Let's Build Something Meaningful Together
+### 🚀 Let’s collaborate and build something meaningful!
 
-[![Connect](https://img.shields.io/badge/Let's_Collaborate-4CAF50?style=for-the-badge&logo=handshake&logoColor=white)](mailto:baskaran.22me@kct.ac.in)
+[![Connect](https://img.shields.io/badge/Let's_Collaborate-4CAF50?style=for-the-badge&logo=handshake&logoColor=white)](mailto:raghunandhan.22me@kct.ac.in)
 
 ---
 
-> *"If skill meets purpose, innovation becomes inevitable."* 🔥  
+> *“Build what the world needs — not just what’s possible.”* 🔥  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Baskarankctm&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=RaghunandhanG&color=brightgreen)
 
 </div>
